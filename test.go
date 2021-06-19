@@ -8,4 +8,5 @@ func main() {
 
 	fmt.Println("增加1")
 	fmt.Println("增加2")
+	fmt.Println("增加3")
 }
