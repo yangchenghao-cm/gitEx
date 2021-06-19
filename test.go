@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("加油加油")
 
 	fmt.Println("增加1")
+	fmt.Println("增加2")
 }
