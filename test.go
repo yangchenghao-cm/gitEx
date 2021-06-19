@@ -15,4 +15,7 @@ func main() {
 	fmt.Println("修改1")
 	fmt.Println("修改2")
 	fmt.Println("修改3")
+
+	fmt.Println("修改bug1")
+	fmt.Println("修改bug2")
 }
