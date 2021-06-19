@@ -12,5 +12,6 @@ func main() {
 	fmt.Println("增加4")
 	fmt.Println("增加5")
 
-	fmt.Println("修改")
+	fmt.Println("修改1")
+	fmt.Println("修改2")
 }
